@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Filename: engine.py
+Filename: main.py
 Author: Samuel Bringman
 Date: 2025-11-03
 Version: 1.0
