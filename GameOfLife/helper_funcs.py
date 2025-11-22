@@ -6,7 +6,7 @@ Filename: helper_functions.py
 Author: Samuel Bringman
 Date: 2025-11-03
 Version: 1.0
-Description: This script provides the functions that allow engine.py
+Description: This script provides the functions that allow main.py
 to run.
 License: MIT License
 """
